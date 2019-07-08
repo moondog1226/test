@@ -1,1 +1,2 @@
-print("hellow mom")
+x = 47
+print(x)
